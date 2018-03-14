@@ -62,7 +62,7 @@
     "debug": "^2.6.8",
     "object-assign": "^4.1.1",
     "on-finished": "^2.3.0",
-    "prom-client": "^10.0.2"
+    "prom-client": "^11.0.0"
   },
   "peerDependencies": {
     "restify": "~5"
